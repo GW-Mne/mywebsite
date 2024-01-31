@@ -6,3 +6,4 @@
 //Example 2 branch edit
 
 rebase change
+merge change
